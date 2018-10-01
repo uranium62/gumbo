@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Standart.Html.Gumbo", "Standart.Html.Gumbo\Standart.Html.Gumbo.csproj", "{17D04A40-7693-4C08-9812-9B83DD58D109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Standart.Html.Gumbo.Test", "Standart.Html.Gumbo.Test\Standart.Html.Gumbo.Test.csproj", "{E5D78C6E-E860-41A0-8B4D-D3E025D32A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Standart.Html.Gumbo.Perf", "Standart.Html.Gumbo.Perf\Standart.Html.Gumbo.Perf.csproj", "{7203D1A0-EC75-4DEE-AF67-839C071B4947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D04A40-7693-4C08-9812-9B83DD58D109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D04A40-7693-4C08-9812-9B83DD58D109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D04A40-7693-4C08-9812-9B83DD58D109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D04A40-7693-4C08-9812-9B83DD58D109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D78C6E-E860-41A0-8B4D-D3E025D32A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D78C6E-E860-41A0-8B4D-D3E025D32A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D78C6E-E860-41A0-8B4D-D3E025D32A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D78C6E-E860-41A0-8B4D-D3E025D32A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7203D1A0-EC75-4DEE-AF67-839C071B4947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7203D1A0-EC75-4DEE-AF67-839C071B4947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7203D1A0-EC75-4DEE-AF67-839C071B4947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7203D1A0-EC75-4DEE-AF67-839C071B4947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
