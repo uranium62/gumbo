@@ -1,4 +1,4 @@
-﻿namespace Standart.Html.Gumbo
+﻿namespace Standart.Html.Parser.Gumbo
 {
     // http://www.whatwg.org/specs/web-apps/current-work/complete/dom.html#quirks-mode
     public enum HtmlQuirksMode

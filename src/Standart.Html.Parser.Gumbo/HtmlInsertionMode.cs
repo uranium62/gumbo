@@ -1,4 +1,4 @@
-﻿namespace Standart.Html.Gumbo
+﻿namespace Standart.Html.Parser.Gumbo
 {
     // http://www.whatwg.org/specs/web-apps/current-work/complete/parsing.html#insertion-mode
     // If new enum values are added, be sure to update the TokenHandlers dispatch

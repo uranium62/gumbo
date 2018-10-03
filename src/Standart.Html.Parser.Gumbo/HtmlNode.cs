@@ -1,4 +1,4 @@
-﻿namespace Standart.Html.Gumbo
+﻿namespace Standart.Html.Parser.Gumbo
 {
     public class HtmlNode
     {
@@ -18,7 +18,7 @@
         public uint IndexWithinParent;
 
         /**
-        * A bitvector of flags containing information about why this element was
+        * A bit-vector of flags containing information about why this element was
         * inserted into the parse tree, including a variety of special parse
         * situations.
         */

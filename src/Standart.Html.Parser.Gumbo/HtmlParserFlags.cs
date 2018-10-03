@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Standart.Html.Gumbo
+﻿namespace Standart.Html.Parser.Gumbo
 {
-    [Flags]
+ using System;
+
+ [Flags]
     public enum HtmlParserFlags
     {
         /**

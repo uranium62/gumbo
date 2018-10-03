@@ -1,4 +1,4 @@
-﻿namespace Standart.Html.Gumbo
+﻿namespace Standart.Html.Parser.Gumbo
 {
     /** 
     * The output struct containing the results of the parse. 

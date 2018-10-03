@@ -1,4 +1,4 @@
-﻿namespace Standart.Html.Gumbo
+﻿namespace Standart.Html.Parser.Gumbo
 {
     // The ordering of this enum is also used to build the dispatch table for the
     // tokenizer state machine, so if it is changed, be sure to update that too.

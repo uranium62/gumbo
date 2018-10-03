@@ -1,4 +1,4 @@
-﻿namespace Standart.Html.Gumbo
+﻿namespace Standart.Html.Parser.Gumbo
 {
     /**
      * An enum for all the tags defined in the HTML5 standard.  These correspond to
