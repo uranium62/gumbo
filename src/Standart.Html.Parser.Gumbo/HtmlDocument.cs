@@ -9,7 +9,7 @@
         * normally consist of the <html> element and any comment nodes found.
         * Pointers are owned.
         */
-        public IEnumerable<HtmlNode> Nodes;
+        public IEnumerable<HtmlNode> Children;
 
         /**
         * True if there was an explicit doctype token as opposed to it being omitted.
