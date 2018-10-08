@@ -1,8 +1,10 @@
 ﻿namespace Standart.Html.Parser.Gumbo
 {
-    // The ordering of this enum is also used to build the dispatch table for the
-    // tokenizer state machine, so if it is changed, be sure to update that too.
-    public enum HtmlTokenState
+    /**
+    * The ordering of this enum is also used to build the dispatch table for the
+    * tokenizer state machine, so if it is changed, be sure to update that too.
+    */
+    public enum HtmlTokenizerEnum
     {
         LEX_DATA,
         LEX_CHAR_REF_IN_DATA,

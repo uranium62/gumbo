@@ -1,5 +1,8 @@
 ﻿namespace Standart.Html.Parser.Gumbo
 {
+    /**
+    * The basic token errors during tokenization
+    */
     public enum HtmlTokenErrorType
     {
         DATA,

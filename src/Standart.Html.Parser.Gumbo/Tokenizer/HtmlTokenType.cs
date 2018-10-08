@@ -1,5 +1,8 @@
 ﻿namespace Standart.Html.Parser.Gumbo
 {
+    /**
+    * The enum representing the type of token
+    */
     public enum HtmlTokenType
     {
         DOCTYPE,
